@@ -1,0 +1,17 @@
+C:\Users\Єгорка\Desktop\DZ\.Net\Project\Project\Project\bin\Debug\net7.0\Project.exe
+C:\Users\Єгорка\Desktop\DZ\.Net\Project\Project\Project\bin\Debug\net7.0\Project.deps.json
+C:\Users\Єгорка\Desktop\DZ\.Net\Project\Project\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+C:\Users\Єгорка\Desktop\DZ\.Net\Project\Project\Project\bin\Debug\net7.0\Project.dll
+C:\Users\Єгорка\Desktop\DZ\.Net\Project\Project\Project\bin\Debug\net7.0\Project.pdb
+C:\Users\Єгорка\Desktop\DZ\.Net\Project\Project\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+C:\Users\Єгорка\Desktop\DZ\.Net\Project\Project\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Єгорка\Desktop\DZ\.Net\Project\Project\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+C:\Users\Єгорка\Desktop\DZ\.Net\Project\Project\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+C:\Users\Єгорка\Desktop\DZ\.Net\Project\Project\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\Єгорка\Desktop\DZ\.Net\Project\Project\Project\obj\Debug\net7.0\Project.dll
+C:\Users\Єгорка\Desktop\DZ\.Net\Project\Project\Project\obj\Debug\net7.0\refint\Project.dll
+C:\Users\Єгорка\Desktop\DZ\.Net\Project\Project\Project\obj\Debug\net7.0\Project.pdb
+C:\Users\Єгорка\Desktop\DZ\.Net\Project\Project\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+C:\Users\Єгорка\Desktop\DZ\.Net\Project\Project\Project\obj\Debug\net7.0\ref\Project.dll
+C:\Users\Єгорка\Desktop\DZ\.Net\Project\Project\Project\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Єгорка\Desktop\DZ\.Net\Project\Project\Project\obj\Debug\net7.0\Project.csproj.CopyComplete

@@ -1,0 +1,30 @@
+{
+  "tables": [1, 2, 3, 4, 5],
+  "clients": [
+    {
+      "group": ["User1", "User2", "User3", "User4"]
+    },
+    {
+      "group": ["User5", "User6"]
+    },
+    {
+      "group": ["User7", "User8", "User9"]
+    },
+    {
+      "group": ["User10", "User11", "User12", "User13"]
+    }
+  ],
+  "waiters": ["waiter1", "waiter2", "waiter3"],
+  "menu": {
+    "Product0": 54,
+    "Product1": 116,
+    "Product2": 34.53,
+    "Product3": 17.21,
+    "Product4": 321.99,
+    "Product5": 10.34,
+    "Product6": 116.12,
+    "Product7": 543.12,
+    "Product8": 167.43,
+    "Product9": 67
+  }
+}
